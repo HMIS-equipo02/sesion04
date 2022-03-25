@@ -5,7 +5,7 @@ Web principal del equipo 2 de la asignatura Herramientas y Métodos de Ingenier�
 
 Alberto Arroyo Cárdenas --> responsable + desarrollador --> https://hmis-aac572.azurewebsites.net/
 
-Ángel Joaquín García Márquez --> desarrollador -->
+Ángel Joaquín García Márquez --> desarrollador --> https://hmis-equipo02.azurewebsites.net/
 
 Alejandro Tomás Soto Meca --> desarrollador --> https://hmis-sesion04-equipo02.eastus.cloudapp.azure.com
 
