@@ -7,5 +7,5 @@ Alberto Arroyo Cárdenas --> responsable + desarrollador --> https://hmis-aac572
 
 Ángel Joaquín García Márquez --> desarrollador -->
 
-Alejandro Tomás Soto Meca --> desarrollador --> 
+Alejandro Tomás Soto Meca --> desarrollador --> hmis-sesion04-equipo02.eastus.cloudapp.azure.com
 
